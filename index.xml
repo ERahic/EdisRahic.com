@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edis Rahic</title>
+    <link>https://www.edisrahic.com/</link>
+    <description>Recent content on Edis Rahic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 20:18:04 -0400</lastBuildDate>
+    <atom:link href="https://www.edisrahic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://www.edisrahic.com/blog/</link>
+      <pubDate>Sun, 05 Oct 2025 20:18:04 -0400</pubDate>
+      <guid>https://www.edisrahic.com/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work Experience</title>
+      <link>https://www.edisrahic.com/work/</link>
+      <pubDate>Sun, 05 Oct 2025 20:05:39 -0400</pubDate>
+      <guid>https://www.edisrahic.com/work/</guid>
+      <description>&lt;h2 id=&#34;bvt-construction-ltd&#34;&gt;BVT Construction Ltd&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Builder Assistant&lt;/strong&gt; | &lt;strong&gt;Beeton, ON, Canada&lt;/strong&gt; |&#xA;&lt;strong&gt;December 2023 - Present&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Assisted skilled tradespeople with material handling, tool operation, and basic construction tasks, including measuring, cutting, and demolition.&lt;/li&gt;&#xA;&lt;li&gt;Assisted with scoping projects with customers to achieve an overall 100% customer satisfaction.&lt;/li&gt;&#xA;&lt;li&gt;Performed preparation and cleanup on the job site, including putting on protective coverings, organizing materials, and maintaining a safe work environment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;john-howard-society-of-peel-halton-dufferin&#34;&gt;John Howard Society of Peel-Halton-Dufferin&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bail Supervisor&lt;/strong&gt; | &lt;strong&gt;Milton, ON, Canada&lt;/strong&gt; | &lt;strong&gt;August 2023 - November 2023&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://www.edisrahic.com/portfolio/</link>
+      <pubDate>Sun, 05 Oct 2025 20:05:31 -0400</pubDate>
+      <guid>https://www.edisrahic.com/portfolio/</guid>
+      <description>&lt;h2 id=&#34;restaurant-page&#34;&gt;&lt;a href=&#34;https://github.com/ERahic/Restaurant-Page---The-Odin-Project&#34;&gt;Restaurant Page&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.edisrahic.com/images/Restaurant_Page_Odin.gif&#34; alt=&#34;Restaurant Page&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My most recent project is a simple restaurant page containing a menu of dishes, desserts, and beverages from Bosnia &amp;amp; Herzegovina.&lt;/p&gt;&#xA;&lt;p&gt;This is the first project I have completed using npm and Webpack. Getting each tab of my restaurant page to render its respective content dynamically was really simple.&lt;/p&gt;&#xA;&lt;p&gt;What I did was add an event listener to each tab, and when clicked, the innerHTML of the &amp;lsquo;content&amp;rsquo; div is set to an empty string.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://www.edisrahic.com/about/</link>
+      <pubDate>Sun, 05 Oct 2025 20:05:23 -0400</pubDate>
+      <guid>https://www.edisrahic.com/about/</guid>
+      <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;&#xA;&lt;p&gt;My name is Edis Rahic, an aspiring software developer with a growing portfolio of projects built using modern web technologies such as Next.js, React, and TypeScript. I enjoy solving problems and turning ideas into user-friendly applications.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-was-i-doing-before-software-development&#34;&gt;What was I doing before software development?&lt;/h2&gt;&#xA;&lt;p&gt;Before transitioning into tech, I worked in the criminal justice system, supporting clients through the court system and helping them complete court-ordered sanctions. These experiences strengthened my ability to analyze information, handle sensitive data responsibly, and communicate clearly; skills that carry over into writing clean, maintainable code and collaborating effectively on software projects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

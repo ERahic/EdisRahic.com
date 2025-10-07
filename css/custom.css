@@ -1,0 +1,32 @@
+:root {
+  --main-sec: #99cc66 !important;
+}
+
+.profile-image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 3px solid #99cc66;
+}
+
+.social-links {
+  display: flex;
+  white-space: nowrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social-icon {
+  width: 40px;
+  height: 54px;
+  fill: #99cc66;
+}
+
+.social-name {
+  font-size: 1.5rem;
+}
+
+.social-name:hover {
+  color: #99cc66;
+}
